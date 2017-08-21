@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>KarROX Technologies Ltd, Maharashtra, India</name>
+    <description>a leading ISO certified Education organization from India.</description>
+    <Style id="icon-22-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-22-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-22">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-22-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-22-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Untitled layer</name>
+      <Placemark>
+        <name>KARROX DECCAN EDUCATION CENTER P LTD</name>
+        <description><![CDATA[Maharashtra Region – Regional Office cum<br>Training center<br>Office No.15, 2nd Floor, Gold Field Plaza<br>Opposite Wadia College,<br>Bund Garden Road, Pune: 411 001<br>Tel No. 020-4100 8900, Fax No.020-4100 8900<br>Email: kaveeta@karroxdeccan.com]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            73.87906,18.53407,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KarROX Technologies Ltd, Hadapsar, Pune</name>
+        <description><![CDATA[209, Second Floor, C-wing,<br>KPCT Mall, Next to Vishal Mega Mart,<br>Fatima nagar,<br>Pune - 411013<br>Tel No: 020-40072666 / 909, 9623032444<br>Email: hadapsar@karroxdeccan.com]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            73.900598,18.503968,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KarROX Technologies Ltd, Viman Nagar, Pune</name>
+        <description><![CDATA[karROX Viman Nagar<br>201 Sai Apex, Datta Mandir Chowk,<br>Viman Nagar, Pune 411 014<br>Tel No: 020-41010101<br>Email:Vimannagar@karroxdeccan.com]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            73.914181,18.565101,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KarROX Technologies Ltd, Aundh, Pune</name>
+        <description><![CDATA[1st Floor, Anand Ghan,<br>Above Oriental Bank of Commerce, Ideal College, ITI College Road,<br>Parihar Chowk, Aundh,<br>Pune - 411007<br>Tel No: 020 – 4100 7800<br>Email: response@karroxdeccan.com]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            73.809229,18.559848,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KarROX Technologies Ltd, Balajinagar, Pune</name>
+        <description><![CDATA[201,Atharv Fariyaz Plaza,<br>Opp Shankar Maharaj Math, near KK Market,<br>Pune-Satara Road,<br>PUNE-411043<br>Mobile No- 8108103786<br>Email: balajinagar@karroxdeccan.com]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            73.857865,18.469392,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KarROX Technologies Ltd, Ahmednagar, Pune</name>
+        <description><![CDATA[2nd Floor,Keshav Heights, <br>Above Supkar Medical, <br>Delhi Gate, <br>Ahmednagar <br>Mob:-9225502525 <br>Email: ahmednagar@karroxdeccan.com]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            74.732582,19.097829,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KarROX Technologies Ltd, Auranagabad</name>
+        <description><![CDATA[Shop No 12,Cosmo Avenue,<br>Opp Baba Petrol Pump,<br>Aurangabad-431001,<br>Ph No- 9422261884<br>Email: aurangabad@karroxdeccan.com]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            75.315378,19.87423,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KarROX Technologies Ltd, Gadhinglaj </name>
+        <description><![CDATA[1st Floor, Kitturkar Building, <br>Sankeshwar Road, <br>Gadhinglaj - 416502 <br>Tel No : 9011972525 <br>Email: gadhinglaj@karroxdeccan.com]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            74.35195,16.228396,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KarROX Technologies Ltd, Baramati</name>
+        <description><![CDATA[PBK Heights,Harikrupa nagar,<br>Baramati-Indapur Road, Opp Market Yard,<br>Baramati-413103 Dist - Pune<br>Ph:- 9922467744<br>Email: baramati@karroxdeccan.com]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            74.583371,18.146397,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KarROX Technologies Ltd, Nanded</name>
+        <description><![CDATA[NANDED CENTER<br>1-12-94, Ruby Academy,<br>Chaitnya Nagar Road, <br>Near Subhadra /mangal Karyalaya, Opp. Manik Nagar, Airport Road,  <br>Nanded – 431 605 <br>Ph : 9960561864<br>Email ID : nanded@karroxdeccan.com]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            77.308302,19.184519,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KarROX Technologies Ltd, Chinchwad, Pune</name>
+        <description><![CDATA[Saidwar,Servey No.57, <br>Spine Road, Behind Rail Vihar, <br>Bijaleenagar,<br>Chinchwad-411033 <br>Tel No:-020-27650007 <br>Email: chinchwad@karroxdeccan.com]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            73.770661,18.643216,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

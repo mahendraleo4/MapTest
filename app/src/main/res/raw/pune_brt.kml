@@ -1,0 +1,253 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'
+xmlns:gx="http://www.google.com/kml/ext/2.2">
+	<Document>
+		<name>Pune BRT Corridors</name>
+		<description><![CDATA[A working collaborative map for a project of Center for Environment Education]]></description>
+		<Folder>
+			<name>Nagar Road BRT Corridor</name>
+			<Placemark>
+
+              <LookAt>
+                <longitude>73.885554</longitude>
+                <latitude>18.545149</latitude>
+                <heading>-60</heading>
+                <tilt>70</tilt>
+                <range>6300</range>
+                <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+              </LookAt>
+				<name>Yerwada BRT Station</name>
+				<description><![CDATA[Rainbow BRT Station on Nagar Road Corridor]]></description>
+				<styleUrl>#icon-ci-1</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>73.885554,18.545149,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Gunjan Corner BRT Station</name>
+				<description><![CDATA[Rainbow BRT Station on Nagar Road Corridor]]></description>
+				<styleUrl>#icon-ci-1</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>73.888026,18.545675,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Wadiya Bangla BRT Station</name>
+				<description><![CDATA[Rainbow BRT Station on Nagar Road Corridor]]></description>
+				<styleUrl>#icon-ci-1</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>73.89232,18.548491,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Sashtrinagar BRT Station</name>
+				<description><![CDATA[Rainbow BRT Station on Nagar Road Corridor]]></description>
+				<styleUrl>#icon-ci-1</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>73.895794,18.551817,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ramwadi Naka BRT Station</name>
+				<description><![CDATA[Rainbow BRT Station on Nagar Road Corridor]]></description>
+				<styleUrl>#icon-ci-1</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>73.904992,18.554822,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Vadgaonsheri Phata BRT Station</name>
+				<description><![CDATA[Rainbow BRT Station on Nagar Road Corridor]]></description>
+				<styleUrl>#icon-ci-1</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>73.912397,18.558942,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Vimannagar Corner BRT Station</name>
+				<description><![CDATA[Rainbow BRT Station on Nagar Road Corridor]]></description>
+				<styleUrl>#icon-ci-1</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>73.91956,18.561251,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Dharmnagar/ 5th Mail BRT Station</name>
+				<description><![CDATA[Rainbow BRT Station on Nagar Road Corridor]]></description>
+				<styleUrl>#icon-ci-1</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>73.923326,18.562283,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Tata Guardroom BRT Station</name>
+				<description><![CDATA[Rainbow BRT Station on Nagar Road Corridor]]></description>
+				<styleUrl>#icon-ci-1</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>73.928508,18.562847,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Chandan Nagar BRT Station</name>
+				<description><![CDATA[Rainbow BRT Station on Nagar Road Corridor]]></description>
+				<styleUrl>#icon-ci-1</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>73.933024,18.563334,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Kharadi Bypass BRT Station</name>
+				<description><![CDATA[Rainbow BRT Station on Nagar Road Corridor]]></description>
+				<styleUrl>#icon-ci-1</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>73.937658,18.56245,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Janak Baba Dargah BRT Station</name>
+				<description><![CDATA[Rainbow BRT Station on Nagar Road Corridor]]></description>
+				<styleUrl>#icon-ci-1</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>73.944021,18.565541000000003,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Wagholi Naka BRT Station</name>
+				<description><![CDATA[Rainbow BRT Station on Nagar Road Corridor, Last Stop on the BRT Route]]></description>
+				<styleUrl>#icon-ci-1</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>73.947697,18.567497,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Alandi Road BRT Corridor</name>
+			<Placemark>
+				<name>Sangamwadi BRT Station (Up)</name>
+				<description><![CDATA[Rainbow BRT Station on Sangamwadi-Vishrantwadi Corridor, Boarding for Kendriya Vidyalaya, Deccan College, Vishrantwadi and for stopages towards Yerwada]]></description>
+				<styleUrl>#icon-ci-1</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>73.862376,18.536597,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Sangamwadi BRT Station (Down)</name>
+				<description><![CDATA[Rainbow BRT Station on Sangamwadi-Vishrantwadi BRT Corridor, boarding for buses going towards Wakdewadi, Nigdi, Sancheti, Aundh, Kothrud, etc]]></description>
+				<styleUrl>#icon-ci-1</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>73.863351,18.537543,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Kendriya Vidyalaya, BEG</name>
+				<description><![CDATA[Rainbow BRT Station on Khadki/Deccan College/Yerwada route]]></description>
+				<styleUrl>#icon-ci-1</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>73.876225,18.545414,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Deccan College BRT Station</name>
+				<description><![CDATA[Rainbow BRT Station on Deccan College-Vishrantwadi route]]></description>
+				<styleUrl>#icon-ci-1</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>73.871864,18.54999,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ambedkar Society BRT Station</name>
+				<description><![CDATA[Rainbow BRT Station on Sangamwadi-Vishrantwadi Corridor on Deccan College, Vishrantwadi route]]></description>
+				<styleUrl>#icon-ci-1</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>73.873725,18.552974,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>GSI/Homeguard BRT Station</name>
+				<description><![CDATA[Rainbow BRT Station on Sangamwadi-Vishrantwadi Corridor on Deccan College and Vishrantwadi route<br>Padestrian Crossing and Underpass for Entry]]></description>
+				<styleUrl>#icon-ci-1</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>73.875122,18.556137,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Fulenagar / MES Water Works BRT Station</name>
+				<description><![CDATA[Rainbow BRT Station on Sangamwadi-Vishrantwadi Corridor on Deccan College and Vishrantwadi route<br>Pedestrian crossing and Foot Over Bridge for entry]]></description>
+				<styleUrl>#icon-ci-1</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>73.876398,18.559819,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Mental Corner BRT Station</name>
+				<description><![CDATA[Rainbow BRT Station on Sangamwadi-Vishrantwadi Corridor on  Deccan College and Vishrantwadi route]]></description>
+				<styleUrl>#icon-ci-1</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>73.878697,18.56643,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Vishrantwadi BRT Station</name>
+				<description><![CDATA[Rainbow BRT Station on Sangamwadi-Vishrantwadi Corridor, last ctop on Deccan College and Vishrantwadi route]]></description>
+				<styleUrl>#icon-ci-1</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>73.878917,18.570515,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Style id='icon-ci-1'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>images/icon-1.png</href>
+				</Icon>
+				<hotSpot x='0' y='0' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+		</Style>
+	</Document>
+</kml>
