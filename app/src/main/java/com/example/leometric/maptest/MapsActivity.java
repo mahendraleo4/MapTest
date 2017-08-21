@@ -76,6 +76,8 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
 //master changes
 ///home/leometric/Android/Sdk
 ///home/leometric/Android/Sdk
+
+        //commit from branch one
         LocationManager locationManager = (LocationManager) getSystemService(LOCATION_SERVICE);
 
         Criteria criteria = new Criteria();
