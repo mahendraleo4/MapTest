@@ -73,7 +73,7 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
         SupportMapFragment mapFragment = (SupportMapFragment) getSupportFragmentManager()
                 .findFragmentById(R.id.map);
         mapFragment.getMapAsync(this);
-
+//master changes
 ///home/leometric/Android/Sdk
 ///home/leometric/Android/Sdk
         LocationManager locationManager = (LocationManager) getSystemService(LOCATION_SERVICE);
